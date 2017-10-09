@@ -1,0 +1,53 @@
+/* ==============================================
+   COLORS
+   ============================================== */
+
+
+/* ==============================================
+   GLOBAL STYLES
+   ============================================== */
+h1 {
+    color:  white;
+    font-family: "Oswald";
+    font-size: 48px;
+    margin: 2rem;
+}
+   body {
+    background-color: #40575A;
+    color: #DCBCA4;
+    font-family: "Open Sans";
+}
+button {
+ color: #40575A;
+ background-color: #DCBCA4;
+ width: 50px;
+ height: 50px;
+ border-radius: 25px;
+ margin: 2rem;
+}
+
+/* MEDIA QUERIES
+*********************************************/
+
+
+/* Extra small devices (portrait phones, less than 576px)
+/ No media query since this is the default in Bootstrap*/
+
+/* Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) {}
+
+
+/* Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) {}
+
+
+/* Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) {}
+
+
+/* Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) {}
