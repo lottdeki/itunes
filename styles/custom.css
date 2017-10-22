@@ -1,9 +1,4 @@
 /* ==============================================
-   COLORS
-   ============================================== */
-
-
-/* ==============================================
    GLOBAL STYLES
    ============================================== */
 
@@ -52,7 +47,6 @@ h2 {
   text-align: center;
 }
 
-
 /* body */
 body {
   background-color: #40575A;
@@ -76,13 +70,13 @@ body {
   background-color: #998276;
   color: #263233;
 }
-
 .button-group {
   text-align: center;
   margin-top: 1.5rem;
   margin-bottom: 3rem;
 }
 
+/* bio */
 .bio-foto {
   position: relative;
   display: inline-block;
